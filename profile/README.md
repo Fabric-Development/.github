@@ -1,5 +1,5 @@
 <div align=center>
-Welcome, we're the organization who made Fabric, a widgets system for linux
+Welcome, we're the organization behind Fabric, a nifty desktop widgets python framework for *Nix based system!
 
 [join us on discord](https://discord.gg/3sDbYc9SZP)
 # Core Team
