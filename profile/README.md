@@ -7,5 +7,5 @@ Welcome, we're the organization behind Fabric, a nifty desktop widgets python fr
 | ![EL-Darsh](https://avatars.githubusercontent.com/its-darsh) | ![Kai Read](https://avatars.githubusercontent.com/kairead) |
 | ---- | ---- |
 | [EL-Darsh](https://github.com/its-darsh) | [Kai Read](https://github.com/kairead) |
-| Code Maintainer | Visual Designer |
+| Code Maintainer | Designer |
 </div>
